@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm Serhat!  
+💻 Backend Developer | 🚀 Open Source Contributor
 
-<!--
-**serhat-gur/serhat-gur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **About Me**  
+I am a Backend Developer with experience in Full Stack projects. I work with backend technologies like Node.js and Express, and frontend with basic HTML, CSS, and JavaScript. I focus on creating efficient and scalable server-side applications.
 
-Here are some ideas to get you started:
+🔹 **Technologies I Work With**  
+- ⚡ Backend: Node.js, Express  
+- 🛠️ Database: MongoDB, MySQL  
+- 🌍 DevOps: Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Contact Me**  
+📫 Email: [serhattgrrr@hotmail.com](mailto:serhattgrrr@hotmail.com)  
+💼 LinkedIn: [linkedin.com/in/serhat-gur](https://www.linkedin.com/in/serhat-gur/)  
